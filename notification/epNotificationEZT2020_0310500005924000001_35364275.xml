@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/base/1" xmlns:ns4="http://zakupki.gov.ru/oos/common/1" xmlns:ns3="http://zakupki.gov.ru/oos/export/1" xmlns:ns6="http://zakupki.gov.ru/oos/KOTypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns7="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns13="http://zakupki.gov.ru/oos/printform/1" xmlns:ns9="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns12="http://zakupki.gov.ru/oos/EATypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/URTypes/1" xmlns:ns10="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns14="http://zakupki.gov.ru/oos/control99/1">
+    <ns3:epNotificationEZT2020 schemeVersion="14.0">
+        <ns9:id>35364275</ns9:id>
+        <ns9:versionNumber>1</ns9:versionNumber>
+        <ns9:commonInfo>
+            <ns9:purchaseNumber>0310500005924000001</ns9:purchaseNumber>
+            <ns9:docNumber>№0310500005924000001</ns9:docNumber>
+            <ns9:directDT>2024-03-20T10:05:16.364+03:00</ns9:directDT>
+            <ns9:plannedPublishDate>2024-03-18+03:00</ns9:plannedPublishDate>
+            <ns9:publishDTInEIS>2024-03-21T12:22:14.299+03:00</ns9:publishDTInEIS>
+            <ns9:href>https://zakupki.gov.ru/epz/order/notice/ezt20/view/common-info.html?regNumber=0310500005924000001</ns9:href>
+            <ns9:notPublishedOnEIS>true</ns9:notPublishedOnEIS>
+            <ns9:placingWay>
+                <ns2:code>EZTP20</ns2:code>
+                <ns2:name>Закупка товара у единственного поставщика на сумму, предусмотренную частью 12 статьи 93 Закона № 44-ФЗ</ns2:name>
+            </ns9:placingWay>
+            <ns9:ETP>
+                <ns2:code>ETP_TEKTORG</ns2:code>
+                <ns2:name>ЭТП ТЭК-Торг</ns2:name>
+                <ns2:url>http://www.tektorg.ru/</ns2:url>
+            </ns9:ETP>
+            <ns9:contractConclusionOnSt83Ch2>true</ns9:contractConclusionOnSt83Ch2>
+        </ns9:commonInfo>
+        <ns9:purchaseResponsibleInfo>
+            <ns9:responsibleOrgInfo>
+                <ns9:regNum>03105000059</ns9:regNum>
+                <ns9:consRegistryNum>902Ю5218</ns9:consRegistryNum>
+                <ns9:fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ "ЦЕНТР ОРГАНИЗАЦИИ ДОРОЖНОГО ДВИЖЕНИЯ"</ns9:fullName>
+                <ns9:shortName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ "ЦЕНТР ОРГАНИЗАЦИИ ДОРОЖНОГО ДВИЖЕНИЯ"</ns9:shortName>
+                <ns9:postAddress>Российская Федерация, 362025, Северная Осетия - Алания Респ, УЛ ФРУНЗЕ, Д. 24</ns9:postAddress>
+                <ns9:factAddress>Российская Федерация, 362025, Северная Осетия - Алания Респ, УЛ ФРУНЗЕ, Д. 24</ns9:factAddress>
+                <ns9:INN>1500002488</ns9:INN>
+                <ns9:KPP>150001001</ns9:KPP>
+            </ns9:responsibleOrgInfo>
+            <ns9:responsibleRole>CU</ns9:responsibleRole>
+            <ns9:responsibleInfo>
+                <ns9:orgPostAddress>Российская Федерация, 362025, Северная Осетия - Алания Респ, УЛ ФРУНЗЕ, Д. 24</ns9:orgPostAddress>
+                <ns9:orgFactAddress>Российская Федерация, 362025, Северная Осетия - Алания Респ, УЛ ФРУНЗЕ, Д. 24</ns9:orgFactAddress>
+                <ns9:contactPersonInfo>
+                    <ns4:lastName>Валиева</ns4:lastName>
+                    <ns4:firstName>Ольга</ns4:firstName>
+                    <ns4:middleName>Юрьевна</ns4:middleName>
+                </ns9:contactPersonInfo>
+                <ns9:contactEMail>zakupki@codd15.ru</ns9:contactEMail>
+                <ns9:contactPhone>7-8672-533707</ns9:contactPhone>
+            </ns9:responsibleInfo>
+        </ns9:purchaseResponsibleInfo>
+        <ns9:printFormInfo>
+            <ns4:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0310500005924000001</ns4:url>
+        </ns9:printFormInfo>
+        <ns9:attachmentsInfo>
+            <ns4:attachmentInfo>
+                <ns4:publishedContentId>1411AC6568DD13FBE06362548D0A6A4B</ns4:publishedContentId>
+                <ns4:fileName>НМЦК Кресла.pdf</ns4:fileName>
+                <ns4:fileSize>380331</ns4:fileSize>
+                <ns4:docDescription>НМЦК Кресла</ns4:docDescription>
+                <ns4:docDate>2024-03-20T09:52:30+03:00</ns4:docDate>
+                <ns4:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=1411AC6568DD13FBE06362548D0A6A4B</ns4:url>
+                <ns4:docKindInfo>
+                    <ns2:code>PR</ns2:code>
+                    <ns2:name>Обоснование цены контракта</ns2:name>
+                </ns4:docKindInfo>
+                <ns4:cryptoSigns>
+                    <ns4:signature type="CAdES-BES">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</ns4:signature>
+                </ns4:cryptoSigns>
+            </ns4:attachmentInfo>
+            <ns4:attachmentInfo>
+                <ns4:publishedContentId>140E98739A8E6169E06362548D0A761B</ns4:publishedContentId>
+                <ns4:fileName>Государственный контракт на поставку.doc</ns4:fileName>
+                <ns4:fileSize>123904</ns4:fileSize>
+                <ns4:docDescription>Государственный контракт на поставку</ns4:docDescription>
+                <ns4:docDate>2024-03-20T09:52:38+03:00</ns4:docDate>
+                <ns4:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=140E98739A8E6169E06362548D0A761B</ns4:url>
+                <ns4:docKindInfo>
+                    <ns2:code>CP</ns2:code>
+                    <ns2:name>Проект контракта</ns2:name>
+                </ns4:docKindInfo>
+                <ns4:cryptoSigns>
+                    <ns4:signature type="CAdES-BES">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</ns4:signature>
+                </ns4:cryptoSigns>
+            </ns4:attachmentInfo>
+        </ns9:attachmentsInfo>
+        <ns9:notificationInfo>
+            <ns9:contractConditionsInfo>
+                <ns9:maxPriceInfo>
+                    <ns9:maxPrice>40350</ns9:maxPrice>
+                    <ns9:currency>
+                        <ns2:code>RUB</ns2:code>
+                        <ns2:name>Российский рубль</ns2:name>
+                    </ns9:currency>
+                </ns9:maxPriceInfo>
+                <ns9:standardContractNumber>1400700000520009</ns9:standardContractNumber>
+                <ns9:deliveryPlaceInfo>
+                    <ns9:OKTMO>
+                        <ns2:code>90000000</ns2:code>
+                        <ns2:name>Муниципальные образования Республики Северная Осетия-Алания</ns2:name>
+                    </ns9:OKTMO>
+                    <ns9:deliveryPlace>РСО-Алания, г.Владикавказ, ул.Пушкинская, 47</ns9:deliveryPlace>
+                </ns9:deliveryPlaceInfo>
+            </ns9:contractConditionsInfo>
+            <ns9:customerRequirementsInfo>
+                <ns9:customerRequirementInfo>
+                    <ns9:customer>
+                        <ns2:regNum>03105000059</ns2:regNum>
+                        <ns2:consRegistryNum>902Ю5218</ns2:consRegistryNum>
+                        <ns2:fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ "ЦЕНТР ОРГАНИЗАЦИИ ДОРОЖНОГО ДВИЖЕНИЯ"</ns2:fullName>
+                    </ns9:customer>
+                    <ns9:contractConditionsInfo>
+                        <ns9:maxPriceInfo>
+                            <ns9:maxPrice>40350</ns9:maxPrice>
+                        </ns9:maxPriceInfo>
+                        <ns9:IKZInfo>
+                            <ns9:purchaseCode>242150000248815000100100090010000244</ns9:purchaseCode>
+                            <ns9:publishYear>2024</ns9:publishYear>
+                            <ns9:OKPD2Info>
+                                <ns4:undefined>0000</ns4:undefined>
+                            </ns9:OKPD2Info>
+                            <ns9:KVRInfo>
+                                <ns4:KVR>
+                                    <ns2:code>244</ns2:code>
+                                    <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                                </ns4:KVR>
+                            </ns9:KVRInfo>
+                            <ns9:customerCode>21500002488150001001</ns9:customerCode>
+                            <ns9:purchaseNumber>0009</ns9:purchaseNumber>
+                            <ns9:purchaseOrderNumber>001</ns9:purchaseOrderNumber>
+                        </ns9:IKZInfo>
+                        <ns9:tenderPlan2020Info>
+                            <ns4:plan2020Number>202403105000059001</ns4:plan2020Number>
+                            <ns4:position2020Number>202403105000059001000009</ns4:position2020Number>
+                        </ns9:tenderPlan2020Info>
+                        <ns9:contractExecutionPaymentPlan>
+                            <ns9:contractExecutionTermsInfo>
+                                <ns4:notRelativeTermsInfo>
+                                    <ns4:isFromConclusionDate>true</ns4:isFromConclusionDate>
+                                    <ns4:endDate>2024-04-11+03:00</ns4:endDate>
+                                </ns4:notRelativeTermsInfo>
+                            </ns9:contractExecutionTermsInfo>
+                            <ns9:financingSourcesInfo>
+                                <ns9:nonbudgetFinancingsInfo>
+                                    <ns9:selfFunds>true</ns9:selfFunds>
+                                </ns9:nonbudgetFinancingsInfo>
+                                <ns9:currentYear>2024</ns9:currentYear>
+                                <ns9:financeInfo>
+                                    <ns9:total>40350</ns9:total>
+                                    <ns9:currentYear>40350</ns9:currentYear>
+                                    <ns9:firstYear>0</ns9:firstYear>
+                                    <ns9:secondYear>0</ns9:secondYear>
+                                    <ns9:subsecYears>0</ns9:subsecYears>
+                                </ns9:financeInfo>
+                            </ns9:financingSourcesInfo>
+                            <ns9:stagesInfo>
+                                <ns9:stageInfo>
+                                    <ns9:sid>8847356</ns9:sid>
+                                    <ns9:termsInfo>
+                                        <ns4:notRelativeTermsInfo>
+                                            <ns4:isFromConclusionDate>true</ns4:isFromConclusionDate>
+                                            <ns4:endDate>2024-04-11+03:00</ns4:endDate>
+                                        </ns4:notRelativeTermsInfo>
+                                    </ns9:termsInfo>
+                                    <ns9:nonbudgetFinancingInfo>
+                                        <ns9:paymentYearInfo>
+                                            <ns9:total>40350</ns9:total>
+                                            <ns9:currentYear>40350</ns9:currentYear>
+                                            <ns9:firstYear>0</ns9:firstYear>
+                                            <ns9:secondYear>0</ns9:secondYear>
+                                            <ns9:subsecYears>0</ns9:subsecYears>
+                                        </ns9:paymentYearInfo>
+                                        <ns9:KVRsInfo>
+                                            <ns4:currentYear>2024</ns4:currentYear>
+                                            <ns4:KVRInfo>
+                                                <ns4:KVR>
+                                                    <ns2:code>244</ns2:code>
+                                                    <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                                                </ns4:KVR>
+                                                <ns4:KVRYearsInfo>
+                                                    <ns4:total>40350</ns4:total>
+                                                    <ns4:currentYear>40350</ns4:currentYear>
+                                                    <ns4:firstYear>0</ns4:firstYear>
+                                                    <ns4:secondYear>0</ns4:secondYear>
+                                                    <ns4:subsecYears>0</ns4:subsecYears>
+                                                </ns4:KVRYearsInfo>
+                                            </ns4:KVRInfo>
+                                            <ns4:totalSum>40350</ns4:totalSum>
+                                        </ns9:KVRsInfo>
+                                    </ns9:nonbudgetFinancingInfo>
+                                </ns9:stageInfo>
+                            </ns9:stagesInfo>
+                        </ns9:contractExecutionPaymentPlan>
+                        <ns9:deliveryTime>3</ns9:deliveryTime>
+                        <ns9:isOneSideRejectionSt95>true</ns9:isOneSideRejectionSt95>
+                    </ns9:contractConditionsInfo>
+                    <ns9:warrantyInfo>
+                        <ns9:warrantyServiceRequirement>Гарантия качества Товара включает в себя действия Поставщика по безвозмездному устранению недостатков в качестве Товара, возникшие в период гарантийного срока и осуществляется путем ремонта, восстановления, замены Товара. &#13;
+     Гарантия качества распространяется на Товар в целом и на все составляющие (комплектующие) части Товара.  &#13;
+     Гарантийное обслуживание включает в себя действия Поставщика по обслуживанию Товара в целях поддержания его работоспособности. Все расходы, связанные с гарантийным обслуживанием Товара в гарантийный срок, несет Поставщик. &#13;
+     Запасные части и расходные материалы, устанавливаемые на Товар в течение гарантийного срока, совместимы с основным Товаром, поставленным в рамках контракта. &#13;
+      Исполнение гарантийных обязательств осуществляется как по местонахождению Заказчика, так и по месту нахождения Поставщика. В случаях, когда гарантийные обязательства осуществляются по местонахождению Поставщика (или производителя), доставка Товара и комплектующих изделий к месту гарантийного обслуживания, ремонта, замены и обратно осуществляется за счет Поставщика.&#13;
+      Устранение выявленных недостатков товара и его комплектующих ненадлежащего качества осуществляется в течение 5 (пяти) дней с даты получения Поставщиком письменного уведомления Заказчика об этом в период гарантийного срока.</ns9:warrantyServiceRequirement>
+                        <ns9:manufacturersWarrantyRequirement>При поставке предоставляется гарантия производителя данного Товара с указанием срока действия такой гарантии и (или) гарантия поставщика на данный Товар с указанием срока действия такой гарантии (срок действия такой гарантии не менее чем срок действия гарантии производителя данного Товара). Гарантия качества на Товар подтверждается выдачей (передачей) заполненного надлежащим образом гарантийного талона (сертификата) производителя Товара или иного документа с отметкой Поставщика. Предоставление гарантии производителя и (или) Поставщика осуществляется вместе с Товаром</ns9:manufacturersWarrantyRequirement>
+                        <ns9:warrantyTerm>Срок предоставления гарантии качества на Товар 12 месяцев с даты подписания товаросопроводительных документов, но не менее чем срок действия гарантии производителя (изготовителя) Товара. Течение гарантийного срока начинается на следующий день после календарной даты поставки Товара и (или) подписания акта устранения выявленных недостатков.&#13;
+Гарантийный срок в этом продлевается на период, определяемый со дня направления письменного извещения Заказчика о необходимости устранения выявленных недостатков товара и его комплектующих ненадлежащего качества до дня подписания акта о замене Товара и комплектующих ненадлежащего качества и (или) акта устранения недостатков.&#13;
+Указанные гарантии не распространяются на случаи, возникшие не по вине Поставщика. При отказе Поставщика от составления или подписания акта обнаруженных дефектов Заказчик составляет односторонний акт на основе квалифицированной экспертизы, привлекаемой им за свой счет. Если экспертиза признает, что поставленный Товар и его комплектующие – не надлежащего качества и не соответствуют требованиям технических регламентов (норм и правил), нормативных правовых актов, и условиям контракта, то Поставщик оплачивает Заказчику расходы по оплате экспертизы, устраняет или оплачивает устранение обнаруженных дефектов за свой счет.&#13;
+</ns9:warrantyTerm>
+                    </ns9:warrantyInfo>
+                </ns9:customerRequirementInfo>
+            </ns9:customerRequirementsInfo>
+            <ns9:purchaseObjectsInfo>
+                <ns4:purchaseObject>
+                    <ns4:sid>146235491</ns4:sid>
+                    <ns4:KTRU>
+                        <ns2:code>31.01.12.160-00000005</ns2:code>
+                        <ns2:name>Кресло офисное</ns2:name>
+                        <ns2:versionId>154648</ns2:versionId>
+                        <ns2:versionNumber>4</ns2:versionNumber>
+                        <ns4:characteristics>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>105382196</ns4:sid>
+                                <ns4:code>ef0161c0-6</ns4:code>
+                                <ns4:name>Наличие подголовника</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>127897629</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>105382198</ns4:sid>
+                                <ns4:code>52cdb28e-1</ns4:code>
+                                <ns4:name>Регулировка угла наклона</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>127897631</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>105382197</ns4:sid>
+                                <ns4:code>fc271474-1</ns4:code>
+                                <ns4:name>Наличие подлокотников</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>127897630</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>105382195</ns4:sid>
+                                <ns4:code>8df84d50-0</ns4:code>
+                                <ns4:name>Наличие механизма регулировки по высоте</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>127897628</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>105382194</ns4:sid>
+                                <ns4:code>f94bafc7-8</ns4:code>
+                                <ns4:name>Назначение</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>127897627</ns4:sid>
+                                        <ns4:qualityDescription>Для персонала</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>105382199</ns4:sid>
+                                <ns4:code>a0e103b4-e</ns4:code>
+                                <ns4:name>Тип каркаса</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>127897632</ns4:sid>
+                                        <ns4:qualityDescription>Металлический</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>105382192</ns4:sid>
+                                <ns4:code>0b0c35c2-f</ns4:code>
+                                <ns4:name>Вид материала обивки сидения</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>127897625</ns4:sid>
+                                        <ns4:qualityDescription>Текстиль</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>105382193</ns4:sid>
+                                <ns4:code>2c2d1caa-b</ns4:code>
+                                <ns4:name>Вид материала обивки спинки</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>127897626</ns4:sid>
+                                        <ns4:qualityDescription>Сетчатый акрил</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                        </ns4:characteristics>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>31.01.12.160</ns2:OKPDCode>
+                            <ns2:OKPDName>Мебель для сидения, преимущественно с деревянным каркасом</ns2:OKPDName>
+                        </ns4:OKPD2>
+                    </ns4:KTRU>
+                    <ns4:name>Кресло офисное</ns4:name>
+                    <ns4:OKEI>
+                        <ns2:code>796</ns2:code>
+                        <ns2:nationalCode>ШТ</ns2:nationalCode>
+                        <ns2:name>Штука</ns2:name>
+                    </ns4:OKEI>
+                    <ns4:price>13450</ns4:price>
+                    <ns4:quantity>
+                        <ns4:value>3</ns4:value>
+                    </ns4:quantity>
+                    <ns4:sum>40350</ns4:sum>
+                </ns4:purchaseObject>
+                <ns4:totalSum>40350</ns4:totalSum>
+                <ns9:type>PRODUCT</ns9:type>
+            </ns9:purchaseObjectsInfo>
+            <ns9:preferensesInfo>
+                <ns9:preferenseInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>IN44</ns2:shortName>
+                        <ns2:name>Организациям инвалидов в соответствии со ст. 29 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                    <ns4:prefValue>15.0</ns4:prefValue>
+                </ns9:preferenseInfo>
+            </ns9:preferensesInfo>
+            <ns9:requirementsInfo>
+                <ns9:requirementInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>ET44</ns2:shortName>
+                        <ns2:name>Единые требования к участникам закупок в соответствии с ч. 1 ст. 31 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                </ns9:requirementInfo>
+                <ns9:requirementInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>TR442</ns2:shortName>
+                        <ns2:name>Требования к участникам закупок в соответствии с ч. 1.1 ст. 31 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                </ns9:requirementInfo>
+            </ns9:requirementsInfo>
+            <ns9:restrictionsInfo>
+                <ns9:restrictionInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>JB2149</ns2:shortName>
+                        <ns2:name>Запрет на допуск товаров, работ, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными ст. 14 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                    <ns4:restrictionsSt14>
+                        <ns4:restrictionSt14>
+                            <ns4:requirementsType>
+                                <ns4:requirementType>
+                                    <ns4:type>BAN</ns4:type>
+                                </ns4:requirementType>
+                            </ns4:requirementsType>
+                            <ns4:NPAInfo>
+                                <ns2:code>19</ns2:code>
+                                <ns2:name>Постановление Правительства РФ от 30.04.2020 № 616 "Об установлении запрета на допуск промышленных товаров, происходящих из иностранных государств, для целей осуществления закупок для государственных и муниципальных нужд, а также промышленных товаров, происходящих из иностранных государств, работ (услуг), выполняемых (оказываемых) иностранными лицами, для целей осуществления закупок для нужд обороны страны и безопасности государства"</ns2:name>
+                                <ns2:shortName>Постановление Правительства РФ от 30.04.2020 № 616</ns2:shortName>
+                            </ns4:NPAInfo>
+                            <ns4:exception>
+                                <ns4:imposibilityBan>true</ns4:imposibilityBan>
+                                <ns4:imposibilityBanReason>Запрет не применяется в соответствии с пп.б п.3 Постановления Правительства РФ от 30 апреля 2020 г. N 616 в связи с тем, что производится закупка одной единицы товара, стоимость которой не превышает 300 тыс. рублей, и закупки совокупности таких товаров, суммарная стоимость которых составляет менее 1 млн. рублей.</ns4:imposibilityBanReason>
+                            </ns4:exception>
+                        </ns4:restrictionSt14>
+                    </ns4:restrictionsSt14>
+                </ns9:restrictionInfo>
+            </ns9:restrictionsInfo>
+        </ns9:notificationInfo>
+        <ns9:printFormFieldsInfo>
+            <ns9:is449Features>false</ns9:is449Features>
+        </ns9:printFormFieldsInfo>
+    </ns3:epNotificationEZT2020>
+</ns3:export>

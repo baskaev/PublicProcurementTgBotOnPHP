@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/base/1" xmlns:ns4="http://zakupki.gov.ru/oos/common/1" xmlns:ns3="http://zakupki.gov.ru/oos/export/1" xmlns:ns6="http://zakupki.gov.ru/oos/KOTypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns7="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns13="http://zakupki.gov.ru/oos/printform/1" xmlns:ns9="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns12="http://zakupki.gov.ru/oos/EATypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/URTypes/1" xmlns:ns10="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns14="http://zakupki.gov.ru/oos/control99/1">
+    <ns3:fcsNotification111 schemeVersion="14.0">
+        <id>35137552</id>
+        <purchaseNumber>0310100005824000002</purchaseNumber>
+        <docPublishDate>2024-02-28T09:47:20.281+03:00</docPublishDate>
+        <docNumber>№0310100005824000002</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0310100005824000002</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0310100005824000002</url>
+        </printForm>
+        <purchaseObjectInfo>Оказание услуг по охране</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03101000058</regNum>
+                <consRegistryNum>001X1706</consRegistryNum>
+                <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "УПРАВЛЕНИЕ МЕЛИОРАЦИИ ЗЕМЕЛЬ И СЕЛЬСКОХОЗЯЙСТВЕННОГО ВОДОСНАБЖЕНИЯ ПО РЕСПУБЛИКЕ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ"</fullName>
+                <postAddress>Российская Федерация, 362040, Северная Осетия - Алания Респ, Владикавказ г, УЛ. БОРОДИНСКАЯ, Д. 25/К. А</postAddress>
+                <factAddress>Российская Федерация, 362040, Северная Осетия - Алания Респ, Владикавказ г, УЛ. БОРОДИНСКАЯ, Д. 25/К. А</factAddress>
+                <INN>1502025868</INN>
+                <KPP>151301001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+        </purchaseResponsible>
+        <placingWay>
+            <code>INM111</code>
+            <name>Способ определения поставщика (подрядчика, исполнителя), установленный Правительством Российской Федерации в соответствии со ст. 111 Федерального закона № 44-ФЗ</name>
+        </placingWay>
+        <lots>
+            <lot>
+                <lotNumber>1</lotNumber>
+                <maxPrice>7051000</maxPrice>
+                <currency>
+                    <code>RUB</code>
+                    <name>Российский рубль</name>
+                </currency>
+                <purchaseObjects>
+                    <purchaseObject>
+                        <OKPD2>
+                            <code>84.24.11.000</code>
+                            <name>Услуги органов охраны правопорядка</name>
+                        </OKPD2>
+                        <name>Услуги органов охраны правопорядка,</name>
+                    </purchaseObject>
+                </purchaseObjects>
+                <purchaseCode>241150202586815130100100070018424244</purchaseCode>
+                <IKZInfo>
+                    <publishYear>2024</publishYear>
+                    <OKPD2Info>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>84.24</ns2:OKPDCode>
+                            <ns2:OKPDName>Услуги по обеспечению общественного порядка и безопасности</ns2:OKPDName>
+                        </ns4:OKPD2>
+                    </OKPD2Info>
+                    <KVRInfo>
+                        <ns4:KVR>
+                            <ns2:code>244</ns2:code>
+                            <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                        </ns4:KVR>
+                    </KVRInfo>
+                    <customerCode>11502025868151301001</customerCode>
+                    <purchaseNumber>0007</purchaseNumber>
+                    <purchaseOrderNumber>001</purchaseOrderNumber>
+                </IKZInfo>
+                <tenderPlan2020Info>
+                    <ns4:plan2020Number>202403101000058001</ns4:plan2020Number>
+                    <ns4:position2020Number>202403101000058001000048</ns4:position2020Number>
+                </tenderPlan2020Info>
+                <contractExecutionPaymentPlan>
+                    <financingSourcesInfo>
+                        <currentYear>2024</currentYear>
+                        <financeInfo>
+                            <total>7051000</total>
+                            <currentYear>7051000</currentYear>
+                            <firstYear>0</firstYear>
+                            <secondYear>0</secondYear>
+                            <subsecYears>0</subsecYears>
+                        </financeInfo>
+                    </financingSourcesInfo>
+                    <KVRsInfo>
+                        <ns4:currentYear>2024</ns4:currentYear>
+                        <ns4:KVRInfo>
+                            <ns4:KVR>
+                                <ns2:code>244</ns2:code>
+                                <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                            </ns4:KVR>
+                            <ns4:KVRYearsInfo>
+                                <ns4:total>7051000</ns4:total>
+                                <ns4:currentYear>7051000</ns4:currentYear>
+                                <ns4:firstYear>0</ns4:firstYear>
+                                <ns4:secondYear>0</ns4:secondYear>
+                                <ns4:subsecYears>0</ns4:subsecYears>
+                            </ns4:KVRYearsInfo>
+                        </ns4:KVRInfo>
+                        <ns4:totalSum>7051000</ns4:totalSum>
+                    </KVRsInfo>
+                </contractExecutionPaymentPlan>
+                <mustPublicDiscussion>false</mustPublicDiscussion>
+            </lot>
+        </lots>
+        <particularsActProcurement>Постановление Правительства РФ от 13.07.2017 г. № 836;  Федеральный закон от 14.04.1999 г. № 77-ФЗ "О ведомственной охране"</particularsActProcurement>
+    </ns3:fcsNotification111>
+</ns3:export>

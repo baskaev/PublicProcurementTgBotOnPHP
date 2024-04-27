@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/base/1" xmlns:ns4="http://zakupki.gov.ru/oos/common/1" xmlns:ns3="http://zakupki.gov.ru/oos/export/1" xmlns:ns6="http://zakupki.gov.ru/oos/KOTypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns7="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns13="http://zakupki.gov.ru/oos/printform/1" xmlns:ns9="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns12="http://zakupki.gov.ru/oos/EATypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/URTypes/1" xmlns:ns10="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns14="http://zakupki.gov.ru/oos/control99/1">
+    <ns3:epNotificationEF2020 schemeVersion="14.0">
+        <ns9:id>35322219</ns9:id>
+        <ns9:versionNumber>1</ns9:versionNumber>
+        <ns9:commonInfo>
+            <ns9:purchaseNumber>0110300000824000030</ns9:purchaseNumber>
+            <ns9:docNumber>№0110300000824000030</ns9:docNumber>
+            <ns9:directDT>2024-03-11T15:08:27.377+03:00</ns9:directDT>
+            <ns9:plannedPublishDate>2024-03-13+03:00</ns9:plannedPublishDate>
+            <ns9:publishDTInEIS>2024-03-13T17:18:51.578+03:00</ns9:publishDTInEIS>
+            <ns9:href>https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0110300000824000030</ns9:href>
+            <ns9:notPublishedOnEIS>true</ns9:notPublishedOnEIS>
+            <ns9:placingWay>
+                <ns2:code>EAP20</ns2:code>
+                <ns2:name>Электронный аукцион</ns2:name>
+            </ns9:placingWay>
+            <ns9:ETP>
+                <ns2:code>ETP_TEKTORG</ns2:code>
+                <ns2:name>ЭТП ТЭК-Торг</ns2:name>
+                <ns2:url>http://www.tektorg.ru/</ns2:url>
+            </ns9:ETP>
+            <ns9:contractConclusionOnSt83Ch2>true</ns9:contractConclusionOnSt83Ch2>
+            <ns9:purchaseObjectInfo>Изготовление чертежей градостроительных планов земельных участков на территории Моздокского городского поселения</ns9:purchaseObjectInfo>
+        </ns9:commonInfo>
+        <ns9:purchaseResponsibleInfo>
+            <ns9:responsibleOrgInfo>
+                <ns9:regNum>01103000008</ns9:regNum>
+                <ns9:consRegistryNum>90300527</ns9:consRegistryNum>
+                <ns9:fullName>АДМИНИСТРАЦИЯ МЕСТНОГО САМОУПРАВЛЕНИЯ МОЗДОКСКОГО РАЙОНА РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ</ns9:fullName>
+                <ns9:shortName>АДМИНИСТРАЦИЯ МЕСТНОГО САМОУПРАВЛЕНИЯ МОЗДОКСКОГО РАЙОНА РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ</ns9:shortName>
+                <ns9:postAddress>Российская Федерация, 363753, Северная Осетия - Алания Респ, Моздокский р-н, Моздок г, УЛ. КИРОВА, Д. 37</ns9:postAddress>
+                <ns9:factAddress>Российская Федерация, 363753, Северная Осетия - Алания Респ, Моздокский р-н, Моздок г, УЛ. КИРОВА, Д. 37</ns9:factAddress>
+                <ns9:INN>1510007380</ns9:INN>
+                <ns9:KPP>151001001</ns9:KPP>
+            </ns9:responsibleOrgInfo>
+            <ns9:responsibleRole>RA</ns9:responsibleRole>
+            <ns9:responsibleInfo>
+                <ns9:orgPostAddress>Российская Федерация, 363753, Северная Осетия - Алания Респ, Моздокский р-н, Моздок г, УЛ. КИРОВА, Д. 37</ns9:orgPostAddress>
+                <ns9:orgFactAddress>Российская Федерация, 363753, Северная Осетия - Алания Респ, Моздокский р-н, Моздок г, УЛ. КИРОВА, Д. 37</ns9:orgFactAddress>
+                <ns9:contactPersonInfo>
+                    <ns4:lastName>Степанова</ns4:lastName>
+                    <ns4:firstName>Надежда</ns4:firstName>
+                    <ns4:middleName>Владимировна</ns4:middleName>
+                </ns9:contactPersonInfo>
+                <ns9:contactEMail>mozdok-zakaz@bk.ru</ns9:contactEMail>
+                <ns9:contactPhone>7-86736-22529</ns9:contactPhone>
+            </ns9:responsibleInfo>
+        </ns9:purchaseResponsibleInfo>
+        <ns9:printFormInfo>
+            <ns4:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0110300000824000030</ns4:url>
+        </ns9:printFormInfo>
+        <ns9:attachmentsInfo>
+            <ns4:attachmentInfo>
+                <ns4:publishedContentId>1360CD68F752F4CFE06362548D0ADDE3</ns4:publishedContentId>
+                <ns4:fileName>обоснование нмцк.docx</ns4:fileName>
+                <ns4:fileSize>16336</ns4:fileSize>
+                <ns4:docDescription>обоснование нмцк</ns4:docDescription>
+                <ns4:docDate>2024-03-11T13:15:01+03:00</ns4:docDate>
+                <ns4:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=1360CD68F752F4CFE06362548D0ADDE3</ns4:url>
+                <ns4:docKindInfo>
+                    <ns2:code>MRJ</ns2:code>
+                    <ns2:name>Обоснование начальной (максимальной) цены контракта</ns2:name>
+                </ns4:docKindInfo>
+                <ns4:cryptoSigns>
+                    <ns4:signature type="CAdES-BES">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</ns4:signature>
+                </ns4:cryptoSigns>
+            </ns4:attachmentInfo>
+            <ns4:attachmentInfo>
+                <ns4:publishedContentId>1360C64D18B3DDB4E06362548D0AE710</ns4:publishedContentId>
+                <ns4:fileName>проект контракта.docx</ns4:fileName>
+                <ns4:fileSize>41115</ns4:fileSize>
+                <ns4:docDescription>проект контракта</ns4:docDescription>
+                <ns4:docDate>2024-03-11T13:17:50+03:00</ns4:docDate>
+                <ns4:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=1360C64D18B3DDB4E06362548D0AE710</ns4:url>
+                <ns4:docKindInfo>
+                    <ns2:code>CP</ns2:code>
+                    <ns2:name>Проект контракта</ns2:name>
+                </ns4:docKindInfo>
+                <ns4:cryptoSigns>
+                    <ns4:signature type="CAdES-BES">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</ns4:signature>
+                </ns4:cryptoSigns>
+            </ns4:attachmentInfo>
+            <ns4:attachmentInfo>
+                <ns4:publishedContentId>13580EAD32582A41E06362548D0A2A8B</ns4:publishedContentId>
+                <ns4:fileName>ооз.docx</ns4:fileName>
+                <ns4:fileSize>15131</ns4:fileSize>
+                <ns4:docDescription>ооз</ns4:docDescription>
+                <ns4:docDate>2024-03-11T13:18:01+03:00</ns4:docDate>
+                <ns4:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=13580EAD32582A41E06362548D0A2A8B</ns4:url>
+                <ns4:docKindInfo>
+                    <ns2:code>POD</ns2:code>
+                    <ns2:name>Описание объекта закупки</ns2:name>
+                </ns4:docKindInfo>
+                <ns4:cryptoSigns>
+                    <ns4:signature type="CAdES-BES">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</ns4:signature>
+                </ns4:cryptoSigns>
+            </ns4:attachmentInfo>
+        </ns9:attachmentsInfo>
+        <ns9:notificationInfo>
+            <ns9:procedureInfo>
+                <ns9:collectingInfo>
+                    <ns9:startDT>2024-03-13T17:18:51+03:00</ns9:startDT>
+                    <ns9:endDT>2024-03-21T09:00:00+03:00</ns9:endDT>
+                </ns9:collectingInfo>
+                <ns9:biddingDate>2024-03-21+03:00</ns9:biddingDate>
+                <ns9:summarizingDate>2024-03-22+03:00</ns9:summarizingDate>
+            </ns9:procedureInfo>
+            <ns9:contractConditionsInfo>
+                <ns9:maxPriceInfo>
+                    <ns9:maxPrice>634653</ns9:maxPrice>
+                    <ns9:currency>
+                        <ns2:code>RUB</ns2:code>
+                        <ns2:name>Российский рубль</ns2:name>
+                    </ns9:currency>
+                    <ns9:interbudgetaryTransfer>false</ns9:interbudgetaryTransfer>
+                </ns9:maxPriceInfo>
+            </ns9:contractConditionsInfo>
+            <ns9:customerRequirementsInfo>
+                <ns9:customerRequirementInfo>
+                    <ns9:customer>
+                        <ns2:regNum>03103000029</ns2:regNum>
+                        <ns2:consRegistryNum>90300507</ns2:consRegistryNum>
+                        <ns2:fullName>АДМИНИСТРАЦИЯ МЕСТНОГО САМОУПРАВЛЕНИЯ МОЗДОКСКОГО ГОРОДСКОГО ПОСЕЛЕНИЯ МОЗДОКСКОГО РАЙОНА РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ</ns2:fullName>
+                    </ns9:customer>
+                    <ns9:applicationGuarantee>
+                        <ns9:amount>6346.53</ns9:amount>
+                        <ns9:account>
+                            <ns4:bik>019033100</ns4:bik>
+                            <ns4:settlementAccount>03232643906301011000</ns4:settlementAccount>
+                            <ns4:personalAccount>05103005070</ns4:personalAccount>
+                            <ns4:creditOrgName>ОТДЕЛЕНИЕ-НБ РЕСП. СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ БАНКА РОССИИ//УФК по Республике Северная Осетия-Алания г. Владикавказ</ns4:creditOrgName>
+                            <ns4:corrAccountNumber>40102810945370000077</ns4:corrAccountNumber>
+                        </ns9:account>
+                        <ns9:procedureInfo>Обеспечение заявки на участие в закупке может предоставляться участником закупки в виде денежных средств или независимой гарантии, предусмотренной статьей 45 Федерального закона от 05.04.2013 № 44-ФЗ. &#13;
+Выбор способа обеспечения осуществляется участником закупки самостоятельно. Срок действия независимой гарантии должен составлять не менее месяца с даты окончания срока подачи заявок.</ns9:procedureInfo>
+                        <ns9:part>1.0</ns9:part>
+                    </ns9:applicationGuarantee>
+                    <ns9:contractGuarantee>
+                        <ns9:account>
+                            <ns4:bik>019033100</ns4:bik>
+                            <ns4:settlementAccount>03232643906301011000</ns4:settlementAccount>
+                            <ns4:personalAccount>05103005070</ns4:personalAccount>
+                            <ns4:creditOrgName>ОТДЕЛЕНИЕ-НБ РЕСП. СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ БАНКА РОССИИ//УФК по Республике Северная Осетия-Алания г. Владикавказ</ns4:creditOrgName>
+                            <ns4:corrAccountNumber>40102810945370000077</ns4:corrAccountNumber>
+                        </ns9:account>
+                        <ns9:procedureInfo>Исполнение контракта может обеспечиваться предоставлением независимой гарантии, соответствующей требованиям статьи 45 Федерального закона от 05.04.2013 № 44-ФЗ, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику.&#13;
+Способ обеспечения исполнения контракта, срок действия независимой гарантии определяются в соответствии с требованиями Федерального закона от 05.04.2013 № 44-ФЗ участником закупки, с которым заключается контракт, самостоятельно. При этом срок действия независимой гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой независимой гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Федерального закона от 05.04.2013 № 44-ФЗ.</ns9:procedureInfo>
+                        <ns9:part>1.0</ns9:part>
+                    </ns9:contractGuarantee>
+                    <ns9:contractConditionsInfo>
+                        <ns9:maxPriceInfo>
+                            <ns9:maxPrice>634653</ns9:maxPrice>
+                        </ns9:maxPriceInfo>
+                        <ns9:mustPublicDiscussion>false</ns9:mustPublicDiscussion>
+                        <ns9:IKZInfo>
+                            <ns9:purchaseCode>243151000822415100100100030017111244</ns9:purchaseCode>
+                            <ns9:publishYear>2024</ns9:publishYear>
+                            <ns9:OKPD2Info>
+                                <ns4:OKPD2>
+                                    <ns2:OKPDCode>71.11</ns2:OKPDCode>
+                                    <ns2:OKPDName>Услуги в области архитектуры</ns2:OKPDName>
+                                </ns4:OKPD2>
+                            </ns9:OKPD2Info>
+                            <ns9:KVRInfo>
+                                <ns4:KVR>
+                                    <ns2:code>244</ns2:code>
+                                    <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                                </ns4:KVR>
+                            </ns9:KVRInfo>
+                            <ns9:customerCode>31510008224151001001</ns9:customerCode>
+                            <ns9:purchaseNumber>0003</ns9:purchaseNumber>
+                            <ns9:purchaseOrderNumber>001</ns9:purchaseOrderNumber>
+                        </ns9:IKZInfo>
+                        <ns9:tenderPlan2020Info>
+                            <ns4:plan2020Number>202403103000029001</ns4:plan2020Number>
+                            <ns4:position2020Number>202403103000029001000003</ns4:position2020Number>
+                        </ns9:tenderPlan2020Info>
+                        <ns9:contractExecutionPaymentPlan>
+                            <ns9:contractExecutionTermsInfo>
+                                <ns4:notRelativeTermsInfo>
+                                    <ns4:isFromConclusionDate>true</ns4:isFromConclusionDate>
+                                    <ns4:endDate>2026-12-31+03:00</ns4:endDate>
+                                </ns4:notRelativeTermsInfo>
+                            </ns9:contractExecutionTermsInfo>
+                            <ns9:financingSourcesInfo>
+                                <ns9:budgetFinancingsInfo>
+                                    <ns9:budgetInfo>
+                                        <ns2:code>10030027</ns2:code>
+                                        <ns2:name>Бюджет муниципального образования- Моздокское городское поселение</ns2:name>
+                                    </ns9:budgetInfo>
+                                    <ns9:budgetLevel>30</ns9:budgetLevel>
+                                    <ns9:OKTMOInfo>
+                                        <ns2:code>90630101</ns2:code>
+                                        <ns2:name>Муниципальные образования Республики Северная Осетия-Алания / Муниципальные районы Республики Северная Осетия-Алания / Моздокский муниципальный район / Городские поселения Моздокского муниципального района / Моздокское</ns2:name>
+                                    </ns9:OKTMOInfo>
+                                </ns9:budgetFinancingsInfo>
+                                <ns9:currentYear>2024</ns9:currentYear>
+                                <ns9:financeInfo>
+                                    <ns9:total>634653.0</ns9:total>
+                                    <ns9:currentYear>180123.5</ns9:currentYear>
+                                    <ns9:firstYear>212280.5</ns9:firstYear>
+                                    <ns9:secondYear>242249</ns9:secondYear>
+                                    <ns9:subsecYears>0</ns9:subsecYears>
+                                </ns9:financeInfo>
+                            </ns9:financingSourcesInfo>
+                            <ns9:stagesInfo>
+                                <ns9:stageInfo>
+                                    <ns9:sid>8542432</ns9:sid>
+                                    <ns9:termsInfo>
+                                        <ns4:notRelativeTermsInfo>
+                                            <ns4:isFromConclusionDate>true</ns4:isFromConclusionDate>
+                                            <ns4:endDate>2026-12-31+03:00</ns4:endDate>
+                                        </ns4:notRelativeTermsInfo>
+                                    </ns9:termsInfo>
+                                    <ns9:budgetFinancingsInfo>
+                                        <ns9:budgetFinancingInfo>
+                                            <ns9:KBK>52304120410171510244</ns9:KBK>
+                                            <ns9:paymentYearInfo>
+                                                <ns9:total>634653.0</ns9:total>
+                                                <ns9:currentYear>180123.5</ns9:currentYear>
+                                                <ns9:firstYear>212280.5</ns9:firstYear>
+                                                <ns9:secondYear>242249</ns9:secondYear>
+                                                <ns9:subsecYears>0</ns9:subsecYears>
+                                            </ns9:paymentYearInfo>
+                                        </ns9:budgetFinancingInfo>
+                                    </ns9:budgetFinancingsInfo>
+                                </ns9:stageInfo>
+                            </ns9:stagesInfo>
+                        </ns9:contractExecutionPaymentPlan>
+                        <ns9:BOInfo>
+                            <ns9:BONumber>9030050724100000036</ns9:BONumber>
+                            <ns9:BODate>2024-02-28T00:00:00+03:00</ns9:BODate>
+                            <ns9:inputBOFlag>auto</ns9:inputBOFlag>
+                        </ns9:BOInfo>
+                        <ns9:deliveryPlacesInfo>
+                            <ns9:deliveryPlaceInfo>
+                                <ns9:kladr>
+                                    <ns9:kladrCode>15007000000</ns9:kladrCode>
+                                    <ns9:fullName>Российская Федерация, Северная Осетия - Алания Респ, Моздокский р-н</ns9:fullName>
+                                </ns9:kladr>
+                                <ns9:deliveryPlace>г. Моздок, ул. Кирова, 37</ns9:deliveryPlace>
+                            </ns9:deliveryPlaceInfo>
+                        </ns9:deliveryPlacesInfo>
+                        <ns9:isOneSideRejectionSt95>true</ns9:isOneSideRejectionSt95>
+                    </ns9:contractConditionsInfo>
+                </ns9:customerRequirementInfo>
+            </ns9:customerRequirementsInfo>
+            <ns9:purchaseObjectsInfo>
+                <ns9:notDrugPurchaseObjectsInfo>
+                    <ns4:purchaseObject>
+                        <ns4:sid>144777860</ns4:sid>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>71.11.21.000</ns2:OKPDCode>
+                            <ns2:OKPDName>Услуги в области архитектуры, связанные с проектами жилищного строительства</ns2:OKPDName>
+                        </ns4:OKPD2>
+                        <ns4:name>изготовление чертежей градостроительных планов земельных участков на территории Моздокского городского поселения в 2026 году</ns4:name>
+                        <ns4:OKEI>
+                            <ns2:code>796</ns2:code>
+                            <ns2:nationalCode>ШТ</ns2:nationalCode>
+                            <ns2:name>Штука</ns2:name>
+                        </ns4:OKEI>
+                        <ns4:customerQuantities>
+                            <ns4:customerQuantity>
+                                <ns4:customer>
+                                    <ns2:regNum>03103000029</ns2:regNum>
+                                    <ns2:consRegistryNum>90300507</ns2:consRegistryNum>
+                                    <ns2:fullName>АДМИНИСТРАЦИЯ МЕСТНОГО САМОУПРАВЛЕНИЯ МОЗДОКСКОГО ГОРОДСКОГО ПОСЕЛЕНИЯ МОЗДОКСКОГО РАЙОНА РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ</ns2:fullName>
+                                </ns4:customer>
+                                <ns4:quantity>50</ns4:quantity>
+                            </ns4:customerQuantity>
+                        </ns4:customerQuantities>
+                        <ns4:price>4844.98</ns4:price>
+                        <ns4:volumeSpecifyingMethod>QF</ns4:volumeSpecifyingMethod>
+                        <ns4:quantity>
+                            <ns4:value>50</ns4:value>
+                        </ns4:quantity>
+                        <ns4:sum>242249</ns4:sum>
+                        <ns4:type>SERVICE</ns4:type>
+                        <ns4:hierarchyType>ND</ns4:hierarchyType>
+                    </ns4:purchaseObject>
+                    <ns4:purchaseObject>
+                        <ns4:sid>144777861</ns4:sid>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>71.11.21.000</ns2:OKPDCode>
+                            <ns2:OKPDName>Услуги в области архитектуры, связанные с проектами жилищного строительства</ns2:OKPDName>
+                        </ns4:OKPD2>
+                        <ns4:name>изготовление чертежей градостроительных планов земельных участков на территории Моздокского городского поселения в 2025</ns4:name>
+                        <ns4:OKEI>
+                            <ns2:code>796</ns2:code>
+                            <ns2:nationalCode>ШТ</ns2:nationalCode>
+                            <ns2:name>Штука</ns2:name>
+                        </ns4:OKEI>
+                        <ns4:customerQuantities>
+                            <ns4:customerQuantity>
+                                <ns4:customer>
+                                    <ns2:regNum>03103000029</ns2:regNum>
+                                    <ns2:consRegistryNum>90300507</ns2:consRegistryNum>
+                                    <ns2:fullName>АДМИНИСТРАЦИЯ МЕСТНОГО САМОУПРАВЛЕНИЯ МОЗДОКСКОГО ГОРОДСКОГО ПОСЕЛЕНИЯ МОЗДОКСКОГО РАЙОНА РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ</ns2:fullName>
+                                </ns4:customer>
+                                <ns4:quantity>50</ns4:quantity>
+                            </ns4:customerQuantity>
+                        </ns4:customerQuantities>
+                        <ns4:price>4245.61</ns4:price>
+                        <ns4:volumeSpecifyingMethod>QF</ns4:volumeSpecifyingMethod>
+                        <ns4:quantity>
+                            <ns4:value>50</ns4:value>
+                        </ns4:quantity>
+                        <ns4:sum>212280.5</ns4:sum>
+                        <ns4:type>SERVICE</ns4:type>
+                        <ns4:hierarchyType>ND</ns4:hierarchyType>
+                    </ns4:purchaseObject>
+                    <ns4:purchaseObject>
+                        <ns4:sid>144777862</ns4:sid>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>71.11.21.000</ns2:OKPDCode>
+                            <ns2:OKPDName>Услуги в области архитектуры, связанные с проектами жилищного строительства</ns2:OKPDName>
+                        </ns4:OKPD2>
+                        <ns4:name>изготовление чертежей градостроительных планов земельных участков на территории Моздокского городского поселения в 2024 году</ns4:name>
+                        <ns4:OKEI>
+                            <ns2:code>796</ns2:code>
+                            <ns2:nationalCode>ШТ</ns2:nationalCode>
+                            <ns2:name>Штука</ns2:name>
+                        </ns4:OKEI>
+                        <ns4:customerQuantities>
+                            <ns4:customerQuantity>
+                                <ns4:customer>
+                                    <ns2:regNum>03103000029</ns2:regNum>
+                                    <ns2:consRegistryNum>90300507</ns2:consRegistryNum>
+                                    <ns2:fullName>АДМИНИСТРАЦИЯ МЕСТНОГО САМОУПРАВЛЕНИЯ МОЗДОКСКОГО ГОРОДСКОГО ПОСЕЛЕНИЯ МОЗДОКСКОГО РАЙОНА РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ</ns2:fullName>
+                                </ns4:customer>
+                                <ns4:quantity>50</ns4:quantity>
+                            </ns4:customerQuantity>
+                        </ns4:customerQuantities>
+                        <ns4:price>3602.47</ns4:price>
+                        <ns4:volumeSpecifyingMethod>QF</ns4:volumeSpecifyingMethod>
+                        <ns4:quantity>
+                            <ns4:value>50</ns4:value>
+                        </ns4:quantity>
+                        <ns4:sum>180123.5</ns4:sum>
+                        <ns4:type>SERVICE</ns4:type>
+                        <ns4:hierarchyType>ND</ns4:hierarchyType>
+                    </ns4:purchaseObject>
+                    <ns4:totalSum>634653.0</ns4:totalSum>
+                    <ns9:quantityUndefined>false</ns9:quantityUndefined>
+                </ns9:notDrugPurchaseObjectsInfo>
+            </ns9:purchaseObjectsInfo>
+            <ns9:preferensesInfo>
+                <ns9:preferenseInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>PVS33044</ns2:shortName>
+                        <ns2:name>Преимущество в соответствии с ч. 3 ст. 30 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                </ns9:preferenseInfo>
+            </ns9:preferensesInfo>
+            <ns9:requirementsInfo>
+                <ns9:requirementInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>ET44</ns2:shortName>
+                        <ns2:name>Единые требования к участникам закупок в соответствии с ч. 1 ст. 31 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                </ns9:requirementInfo>
+                <ns9:requirementInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>TR442</ns2:shortName>
+                        <ns2:name>Требования к участникам закупок в соответствии с ч. 1.1 ст. 31 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                </ns9:requirementInfo>
+                <ns9:requirementInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>TU1131</ns2:shortName>
+                        <ns2:name>Требование к участникам закупок в соответствии с п. 1 ч. 1 ст. 31 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                    <ns4:content>Требования к исполнителю работ: Организацией или ИП, имеющим в своем составе кадастрового инженера с соответствующими квалификациями (допуск СРО кадастровых инженеров, диплом (аттестат) кадастрового инженера и выписка из реестра кадастровых инженеров).</ns4:content>
+                </ns9:requirementInfo>
+            </ns9:requirementsInfo>
+            <ns9:flags>
+                <ns9:purchaseObjectsCh9St37>false</ns9:purchaseObjectsCh9St37>
+            </ns9:flags>
+        </ns9:notificationInfo>
+    </ns3:epNotificationEF2020>
+</ns3:export>

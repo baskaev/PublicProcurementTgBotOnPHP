@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/base/1" xmlns:ns4="http://zakupki.gov.ru/oos/common/1" xmlns:ns3="http://zakupki.gov.ru/oos/export/1" xmlns:ns6="http://zakupki.gov.ru/oos/KOTypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns7="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns13="http://zakupki.gov.ru/oos/printform/1" xmlns:ns9="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns12="http://zakupki.gov.ru/oos/EATypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/URTypes/1" xmlns:ns10="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns14="http://zakupki.gov.ru/oos/control99/1">
+    <ns3:epNotificationCancel schemeVersion="14.0">
+        <ns9:id>648045</ns9:id>
+        <ns9:commonInfo>
+            <ns9:purchaseNumber>0810100000323000077</ns9:purchaseNumber>
+            <ns9:docNumber>№ИО1</ns9:docNumber>
+            <ns9:docDT>2024-01-10T19:32:55.535+03:00</ns9:docDT>
+            <ns9:docPublishDTInEIS>2024-01-10T19:33:34.559+03:00</ns9:docPublishDTInEIS>
+            <ns9:href>https://zakupki.gov.ru/epz/order/notice/ea20/view/documents.html?regNumber=0810100000323000077</ns9:href>
+        </ns9:commonInfo>
+        <ns9:printFormInfo>
+            <ns4:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0810100000323000077</ns4:url>
+        </ns9:printFormInfo>
+        <ns9:cancelReasonInfo>
+            <ns9:responsibleDecisionInfo>
+                <ns9:decisionDate>2024-01-10+03:00</ns9:decisionDate>
+            </ns9:responsibleDecisionInfo>
+        </ns9:cancelReasonInfo>
+    </ns3:epNotificationCancel>
+</ns3:export>

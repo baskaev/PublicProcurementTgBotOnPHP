@@ -8,9 +8,8 @@ function sendRequest($message,$chatId ) {
         // Отвечаем на другие сообщения
         sendMessage($chatId, "Вы написали: " . $message);
     }
-    // Далее вы можете использовать $chatId и $message в вашем коде
-    
-    echo "Chat ID последнего сообщения: " . $chatId . "<br>";
-    echo "Текст последнего сообщения: " . $message;
-    echo "<br>";
+
+    // echo "Chat ID последнего сообщения: " . $chatId . "<br>";
+    // echo "Текст последнего сообщения: " . $message;
+    // echo "<br>";
 }

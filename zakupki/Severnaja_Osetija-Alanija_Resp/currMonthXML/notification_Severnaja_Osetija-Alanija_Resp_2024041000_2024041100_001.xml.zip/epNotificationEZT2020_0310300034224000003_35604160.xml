@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/base/1" xmlns:ns4="http://zakupki.gov.ru/oos/common/1" xmlns:ns3="http://zakupki.gov.ru/oos/export/1" xmlns:ns6="http://zakupki.gov.ru/oos/KOTypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns7="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns13="http://zakupki.gov.ru/oos/printform/1" xmlns:ns9="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns12="http://zakupki.gov.ru/oos/EATypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/URTypes/1" xmlns:ns10="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns14="http://zakupki.gov.ru/oos/control99/1">
+    <ns3:epNotificationEZT2020 schemeVersion="14.1">
+        <ns9:id>35604160</ns9:id>
+        <ns9:versionNumber>1</ns9:versionNumber>
+        <ns9:commonInfo>
+            <ns9:purchaseNumber>0310300034224000003</ns9:purchaseNumber>
+            <ns9:docNumber>№0310300034224000003</ns9:docNumber>
+            <ns9:directDT>2024-04-08T11:19:24.476+03:00</ns9:directDT>
+            <ns9:plannedPublishDate>2024-04-05+03:00</ns9:plannedPublishDate>
+            <ns9:publishDTInEIS>2024-04-10T16:12:05.367+03:00</ns9:publishDTInEIS>
+            <ns9:href>https://zakupki.gov.ru/epz/order/notice/ezt20/view/common-info.html?regNumber=0310300034224000003</ns9:href>
+            <ns9:notPublishedOnEIS>true</ns9:notPublishedOnEIS>
+            <ns9:placingWay>
+                <ns2:code>EZTP20</ns2:code>
+                <ns2:name>Закупка, осуществляемая в соответствии с частью 12 статьи 93 Закона № 44-ФЗ</ns2:name>
+            </ns9:placingWay>
+            <ns9:ETP>
+                <ns2:code>ETP_TEKTORG</ns2:code>
+                <ns2:name>ЭТП ТЭК-Торг</ns2:name>
+                <ns2:url>http://www.tektorg.ru/</ns2:url>
+            </ns9:ETP>
+            <ns9:contractConclusionOnSt83Ch2>true</ns9:contractConclusionOnSt83Ch2>
+            <ns9:useProgramRights>false</ns9:useProgramRights>
+        </ns9:commonInfo>
+        <ns9:purchaseResponsibleInfo>
+            <ns9:responsibleOrgInfo>
+                <ns9:regNum>03103000342</ns9:regNum>
+                <ns9:consRegistryNum>902Щ7520</ns9:consRegistryNum>
+                <ns9:fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКАЯ ПОЛИКЛИНИКА №2" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ</ns9:fullName>
+                <ns9:shortName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКАЯ ПОЛИКЛИНИКА №2" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ</ns9:shortName>
+                <ns9:postAddress>Российская Федерация, 362008, Северная Осетия - Алания Респ, Владикавказ г, ПР-КТ КОСТА, Д.84</ns9:postAddress>
+                <ns9:factAddress>Российская Федерация, 362008, Северная Осетия - Алания Респ, Владикавказ г, ПР-КТ КОСТА, Д.84</ns9:factAddress>
+                <ns9:INN>1501003188</ns9:INN>
+                <ns9:KPP>151301001</ns9:KPP>
+            </ns9:responsibleOrgInfo>
+            <ns9:responsibleRole>CU</ns9:responsibleRole>
+            <ns9:responsibleInfo>
+                <ns9:orgPostAddress>Российская Федерация, 362008, Северная Осетия - Алания Респ, Владикавказ г, ПР-КТ КОСТА, Д.84</ns9:orgPostAddress>
+                <ns9:orgFactAddress>Российская Федерация, 362008, Северная Осетия - Алания Респ, Владикавказ г, ПР-КТ КОСТА, Д.84</ns9:orgFactAddress>
+                <ns9:contactPersonInfo>
+                    <ns4:lastName>Купеева</ns4:lastName>
+                    <ns4:firstName>А.</ns4:firstName>
+                    <ns4:middleName>Э.</ns4:middleName>
+                </ns9:contactPersonInfo>
+                <ns9:contactEMail>d.pol2@mail.ru</ns9:contactEMail>
+                <ns9:contactPhone>8-8672-256878</ns9:contactPhone>
+            </ns9:responsibleInfo>
+        </ns9:purchaseResponsibleInfo>
+        <ns9:printFormInfo>
+            <ns4:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0310300034224000003</ns4:url>
+        </ns9:printFormInfo>
+        <ns9:attachmentsInfo>
+            <ns4:attachmentInfo>
+                <ns4:publishedContentId>155764038201A045E06362548D0A1215</ns4:publishedContentId>
+                <ns4:fileName>Расчет НМЦ 2-я детская лот2.xlsx</ns4:fileName>
+                <ns4:fileSize>14466</ns4:fileSize>
+                <ns4:docDescription>Расчет НМЦ 2-я детская лот2</ns4:docDescription>
+                <ns4:docDate>2024-04-05T13:47:30+03:00</ns4:docDate>
+                <ns4:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=155764038201A045E06362548D0A1215</ns4:url>
+                <ns4:docKindInfo>
+                    <ns2:code>PR</ns2:code>
+                    <ns2:name>Обоснование цены контракта</ns2:name>
+                </ns4:docKindInfo>
+                <ns4:cryptoSigns>
+                    <ns4:signature type="CAdES-BES">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</ns4:signature>
+                </ns4:cryptoSigns>
+            </ns4:attachmentInfo>
+            <ns4:attachmentInfo>
+                <ns4:publishedContentId>155117E46ADDB058E06362548D0A2C09</ns4:publishedContentId>
+                <ns4:fileName>Государственный контракт на поставку комп оборудования проект.doc</ns4:fileName>
+                <ns4:fileSize>109568</ns4:fileSize>
+                <ns4:docDescription>Государственный контракт на поставку комп оборудования проект</ns4:docDescription>
+                <ns4:docDate>2024-04-05T13:47:53+03:00</ns4:docDate>
+                <ns4:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=155117E46ADDB058E06362548D0A2C09</ns4:url>
+                <ns4:docKindInfo>
+                    <ns2:code>CP</ns2:code>
+                    <ns2:name>Проект контракта</ns2:name>
+                </ns4:docKindInfo>
+                <ns4:cryptoSigns>
+                    <ns4:signature type="CAdES-BES">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</ns4:signature>
+                </ns4:cryptoSigns>
+            </ns4:attachmentInfo>
+        </ns9:attachmentsInfo>
+        <ns9:notificationInfo>
+            <ns9:contractConditionsInfo>
+                <ns9:maxPriceInfo>
+                    <ns9:maxPrice>131000</ns9:maxPrice>
+                    <ns9:currency>
+                        <ns2:code>RUB</ns2:code>
+                        <ns2:name>Российский рубль</ns2:name>
+                    </ns9:currency>
+                </ns9:maxPriceInfo>
+                <ns9:standardContractNumber>1400700000520009</ns9:standardContractNumber>
+                <ns9:deliveryPlaceInfo>
+                    <ns9:OKTMO>
+                        <ns2:code>90700000</ns2:code>
+                        <ns2:name>Муниципальные образования Республики Северная Осетия-Алания / Городские округа Республики Северная Осетия-Алания</ns2:name>
+                    </ns9:OKTMO>
+                    <ns9:deliveryPlace>362008, РСО- Алания , г.Владикавказ, ул.пр. Коста 84</ns9:deliveryPlace>
+                </ns9:deliveryPlaceInfo>
+            </ns9:contractConditionsInfo>
+            <ns9:customerRequirementsInfo>
+                <ns9:customerRequirementInfo>
+                    <ns9:customer>
+                        <ns2:regNum>03103000342</ns2:regNum>
+                        <ns2:consRegistryNum>902Щ7520</ns2:consRegistryNum>
+                        <ns2:fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКАЯ ПОЛИКЛИНИКА №2" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РЕСПУБЛИКИ СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ</ns2:fullName>
+                    </ns9:customer>
+                    <ns9:contractConditionsInfo>
+                        <ns9:maxPriceInfo>
+                            <ns9:maxPrice>131000</ns9:maxPrice>
+                        </ns9:maxPriceInfo>
+                        <ns9:IKZInfo>
+                            <ns9:purchaseCode>242150100318815130100100090050000244</ns9:purchaseCode>
+                            <ns9:publishYear>2024</ns9:publishYear>
+                            <ns9:OKPD2Info>
+                                <ns4:undefined>0000</ns4:undefined>
+                            </ns9:OKPD2Info>
+                            <ns9:KVRInfo>
+                                <ns4:KVR>
+                                    <ns2:code>244</ns2:code>
+                                    <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                                </ns4:KVR>
+                            </ns9:KVRInfo>
+                            <ns9:customerCode>21501003188151301001</ns9:customerCode>
+                            <ns9:purchaseNumber>0009</ns9:purchaseNumber>
+                            <ns9:purchaseOrderNumber>005</ns9:purchaseOrderNumber>
+                        </ns9:IKZInfo>
+                        <ns9:tenderPlan2020Info>
+                            <ns4:plan2020Number>202403103000342002</ns4:plan2020Number>
+                            <ns4:position2020Number>202403103000342002000011</ns4:position2020Number>
+                        </ns9:tenderPlan2020Info>
+                        <ns9:contractExecutionPaymentPlan>
+                            <ns9:contractExecutionTermsInfo>
+                                <ns4:notRelativeTermsInfo>
+                                    <ns4:isFromConclusionDate>true</ns4:isFromConclusionDate>
+                                    <ns4:endDate>2024-04-30+03:00</ns4:endDate>
+                                </ns4:notRelativeTermsInfo>
+                            </ns9:contractExecutionTermsInfo>
+                            <ns9:financingSourcesInfo>
+                                <ns9:nonbudgetFinancingsInfo>
+                                    <ns9:selfFunds>true</ns9:selfFunds>
+                                </ns9:nonbudgetFinancingsInfo>
+                                <ns9:currentYear>2024</ns9:currentYear>
+                                <ns9:financeInfo>
+                                    <ns9:total>131000</ns9:total>
+                                    <ns9:currentYear>131000</ns9:currentYear>
+                                    <ns9:firstYear>0</ns9:firstYear>
+                                    <ns9:secondYear>0</ns9:secondYear>
+                                    <ns9:subsecYears>0</ns9:subsecYears>
+                                </ns9:financeInfo>
+                            </ns9:financingSourcesInfo>
+                            <ns9:stagesInfo>
+                                <ns9:stageInfo>
+                                    <ns9:sid>9182776</ns9:sid>
+                                    <ns9:termsInfo>
+                                        <ns4:notRelativeTermsInfo>
+                                            <ns4:isFromConclusionDate>true</ns4:isFromConclusionDate>
+                                            <ns4:endDate>2024-04-30+03:00</ns4:endDate>
+                                        </ns4:notRelativeTermsInfo>
+                                    </ns9:termsInfo>
+                                    <ns9:nonbudgetFinancingInfo>
+                                        <ns9:paymentYearInfo>
+                                            <ns9:total>131000</ns9:total>
+                                            <ns9:currentYear>131000</ns9:currentYear>
+                                            <ns9:firstYear>0</ns9:firstYear>
+                                            <ns9:secondYear>0</ns9:secondYear>
+                                            <ns9:subsecYears>0</ns9:subsecYears>
+                                        </ns9:paymentYearInfo>
+                                        <ns9:KVRsInfo>
+                                            <ns4:currentYear>2024</ns4:currentYear>
+                                            <ns4:KVRInfo>
+                                                <ns4:KVR>
+                                                    <ns2:code>244</ns2:code>
+                                                    <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                                                </ns4:KVR>
+                                                <ns4:KVRYearsInfo>
+                                                    <ns4:total>131000</ns4:total>
+                                                    <ns4:currentYear>131000</ns4:currentYear>
+                                                    <ns4:firstYear>0</ns4:firstYear>
+                                                    <ns4:secondYear>0</ns4:secondYear>
+                                                    <ns4:subsecYears>0</ns4:subsecYears>
+                                                </ns4:KVRYearsInfo>
+                                            </ns4:KVRInfo>
+                                            <ns4:totalSum>131000</ns4:totalSum>
+                                        </ns9:KVRsInfo>
+                                    </ns9:nonbudgetFinancingInfo>
+                                </ns9:stageInfo>
+                            </ns9:stagesInfo>
+                        </ns9:contractExecutionPaymentPlan>
+                        <ns9:deliveryTime>5</ns9:deliveryTime>
+                        <ns9:isOneSideRejectionSt95>true</ns9:isOneSideRejectionSt95>
+                    </ns9:contractConditionsInfo>
+                </ns9:customerRequirementInfo>
+            </ns9:customerRequirementsInfo>
+            <ns9:purchaseObjectsInfo>
+                <ns4:purchaseObject>
+                    <ns4:sid>147942632</ns4:sid>
+                    <ns4:KTRU>
+                        <ns2:code>26.20.18.000-00000069</ns2:code>
+                        <ns2:name>Многофункциональное устройство (МФУ)</ns2:name>
+                        <ns2:versionId>167745</ns2:versionId>
+                        <ns2:versionNumber>15</ns2:versionNumber>
+                        <ns4:characteristics>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969329</ns4:sid>
+                                <ns4:code>8854335b-8</ns4:code>
+                                <ns4:name>Наличие тумбы лотка для напольного размещения</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763609</ns4:sid>
+                                        <ns4:qualityDescription>Нет</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969321</ns4:sid>
+                                <ns4:code>09ec4e9e-a</ns4:code>
+                                <ns4:name>Наличие в комплекте поставки оригинального стартового фотобарабана</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763601</ns4:sid>
+                                        <ns4:qualityDescription>Нет</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969342</ns4:sid>
+                                <ns4:code>9aef0160-1</ns4:code>
+                                <ns4:name>Суммарная емкость устройства автоподачи сканера оригиналов</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763626</ns4:sid>
+                                        <ns4:OKEI>
+                                            <ns2:code>625</ns2:code>
+                                            <ns2:nationalCode>ЛИСТ</ns2:nationalCode>
+                                            <ns2:name>Лист</ns2:name>
+                                        </ns4:OKEI>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>50</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969338</ns4:sid>
+                                <ns4:code>0aebfc70-0</ns4:code>
+                                <ns4:name>Скорость черно-белого копирования в формате А4, стр/мин</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763620</ns4:sid>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>40</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969337</ns4:sid>
+                                <ns4:code>008afece-f</ns4:code>
+                                <ns4:name>Режим сканирования</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>3</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763617</ns4:sid>
+                                        <ns4:qualityDescription>На электронную почту</ns4:qualityDescription>
+                                    </ns4:value>
+                                    <ns4:value>
+                                        <ns4:sid>137763618</ns4:sid>
+                                        <ns4:qualityDescription>В сетевую папку</ns4:qualityDescription>
+                                    </ns4:value>
+                                    <ns4:value>
+                                        <ns4:sid>137763619</ns4:sid>
+                                        <ns4:qualityDescription>На USB-накопитель</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969319</ns4:sid>
+                                <ns4:code>143b160d-9</ns4:code>
+                                <ns4:name>Наличие Bluetooth</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763599</ns4:sid>
+                                        <ns4:qualityDescription>Нет</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969336</ns4:sid>
+                                <ns4:code>d5a3ee61-3</ns4:code>
+                                <ns4:name>Поддерживаемая предельная плотность бумаги, г/м2</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763616</ns4:sid>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>150</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969317</ns4:sid>
+                                <ns4:code>5ce3576d-3</ns4:code>
+                                <ns4:name>Максимальное разрешение черно-белой печати по горизонтали, dpi</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763597</ns4:sid>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>1200</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969316</ns4:sid>
+                                <ns4:code>74509128-7</ns4:code>
+                                <ns4:name>Максимальное разрешение черно-белой печати по вертикали, dpi</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763596</ns4:sid>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>1200</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969315</ns4:sid>
+                                <ns4:code>ae42d08b-0</ns4:code>
+                                <ns4:name>Максимальное разрешение сканирования по горизонтали, dpi</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763595</ns4:sid>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>1200</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969314</ns4:sid>
+                                <ns4:code>1efd8e9d-5</ns4:code>
+                                <ns4:name>Максимальное разрешение сканирования по вертикали, dpi</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763594</ns4:sid>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>1200</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969324</ns4:sid>
+                                <ns4:code>ac3bcb64-e</ns4:code>
+                                <ns4:name>Наличие интерфейсного кабеля для подключения к компьютеру в комплекте поставки</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763604</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969311</ns4:sid>
+                                <ns4:code>4e454059-0</ns4:code>
+                                <ns4:name>Время выхода первой копии</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763591</ns4:sid>
+                                        <ns4:OKEI>
+                                            <ns2:code>354</ns2:code>
+                                            <ns2:nationalCode>С</ns2:nationalCode>
+                                            <ns2:name>Секунда</ns2:name>
+                                        </ns4:OKEI>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:maxMathNotation>lessOrEqual</ns4:maxMathNotation>
+                                                <ns4:max>10</ns4:max>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969313</ns4:sid>
+                                <ns4:code>e4baf575-3</ns4:code>
+                                <ns4:name>Количество ядер процессора</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763593</ns4:sid>
+                                        <ns4:OKEI>
+                                            <ns2:code>796</ns2:code>
+                                            <ns2:nationalCode>ШТ</ns2:nationalCode>
+                                            <ns2:name>Штука</ns2:name>
+                                        </ns4:OKEI>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>1</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969347</ns4:sid>
+                                <ns4:code>bb513148-b</ns4:code>
+                                <ns4:name>Частота процессора</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763632</ns4:sid>
+                                        <ns4:OKEI>
+                                            <ns2:code>292</ns2:code>
+                                            <ns2:nationalCode>МЕГАГЦ</ns2:nationalCode>
+                                            <ns2:name>Мегагерц</ns2:name>
+                                        </ns4:OKEI>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>1200</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969309</ns4:sid>
+                                <ns4:code>170d24e2-9</ns4:code>
+                                <ns4:name>Возможность сканирования в форматах</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>3</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763589</ns4:sid>
+                                        <ns4:qualityDescription>A4</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969325</ns4:sid>
+                                <ns4:code>4d27faa9-a</ns4:code>
+                                <ns4:name>Наличие кабеля электропитания для подключения к сети 220В в комплекте поставки</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763605</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969322</ns4:sid>
+                                <ns4:code>81c38623-c</ns4:code>
+                                <ns4:name>Наличие в комплекте поставки оригинального стартового черного тонер-картриджа</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763602</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969345</ns4:sid>
+                                <ns4:code>d44b3b40-f</ns4:code>
+                                <ns4:name>Тип сканирования</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>3</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763629</ns4:sid>
+                                        <ns4:qualityDescription>Планшетный</ns4:qualityDescription>
+                                    </ns4:value>
+                                    <ns4:value>
+                                        <ns4:sid>137763630</ns4:sid>
+                                        <ns4:qualityDescription>Протяжный</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969340</ns4:sid>
+                                <ns4:code>013b46e0-8</ns4:code>
+                                <ns4:name>Суммарная емкость выходных лотков</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763624</ns4:sid>
+                                        <ns4:OKEI>
+                                            <ns2:code>625</ns2:code>
+                                            <ns2:nationalCode>ЛИСТ</ns2:nationalCode>
+                                            <ns2:name>Лист</ns2:name>
+                                        </ns4:OKEI>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>150</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969341</ns4:sid>
+                                <ns4:code>0108eacf-c</ns4:code>
+                                <ns4:name>Суммарная емкость лотков подачи бумаги для печати</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763625</ns4:sid>
+                                        <ns4:OKEI>
+                                            <ns2:code>625</ns2:code>
+                                            <ns2:nationalCode>ЛИСТ</ns2:nationalCode>
+                                            <ns2:name>Лист</ns2:name>
+                                        </ns4:OKEI>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>250</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969339</ns4:sid>
+                                <ns4:code>01a79ac9-6</ns4:code>
+                                <ns4:name>Способ подключения</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>3</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763621</ns4:sid>
+                                        <ns4:qualityDescription>Ethernet (RJ-45)</ns4:qualityDescription>
+                                    </ns4:value>
+                                    <ns4:value>
+                                        <ns4:sid>137763622</ns4:sid>
+                                        <ns4:qualityDescription>USB</ns4:qualityDescription>
+                                    </ns4:value>
+                                    <ns4:value>
+                                        <ns4:sid>137763623</ns4:sid>
+                                        <ns4:qualityDescription>Wi-Fi</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969334</ns4:sid>
+                                <ns4:code>18417cec-f</ns4:code>
+                                <ns4:name>Объем установленной оперативной памяти</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763614</ns4:sid>
+                                        <ns4:OKEI>
+                                            <ns2:code>257</ns2:code>
+                                            <ns2:nationalCode>МБАЙТ</ns2:nationalCode>
+                                            <ns2:name>Мегабайт</ns2:name>
+                                        </ns4:OKEI>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>512</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969310</ns4:sid>
+                                <ns4:code>8845e777-c</ns4:code>
+                                <ns4:name>Время выхода первого черно-белого отпечатка</ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763590</ns4:sid>
+                                        <ns4:OKEI>
+                                            <ns2:code>354</ns2:code>
+                                            <ns2:nationalCode>С</ns2:nationalCode>
+                                            <ns2:name>Секунда</ns2:name>
+                                        </ns4:OKEI>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:maxMathNotation>lessOrEqual</ns4:maxMathNotation>
+                                                <ns4:max>7</ns4:max>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969333</ns4:sid>
+                                <ns4:code>4183c053-5</ns4:code>
+                                <ns4:name>Наличие фотопечати</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763613</ns4:sid>
+                                        <ns4:qualityDescription>Нет</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969308</ns4:sid>
+                                <ns4:code>9a78f7da-b</ns4:code>
+                                <ns4:name>Возможность двухстороннего сканирования</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763588</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969335</ns4:sid>
+                                <ns4:code>faaa27ae-5</ns4:code>
+                                <ns4:name>Печать на оптических дисках</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763615</ns4:sid>
+                                        <ns4:qualityDescription>Нет</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969344</ns4:sid>
+                                <ns4:code>aa756c8e-d</ns4:code>
+                                <ns4:name>Тип системы печати</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763628</ns4:sid>
+                                        <ns4:qualityDescription>Однокомпонентная</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969323</ns4:sid>
+                                <ns4:code>ec50ca66-1</ns4:code>
+                                <ns4:name>Наличие дырокола</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763603</ns4:sid>
+                                        <ns4:qualityDescription>Нет</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969328</ns4:sid>
+                                <ns4:code>118bf529-1</ns4:code>
+                                <ns4:name>Наличие степлера</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763608</ns4:sid>
+                                        <ns4:qualityDescription>Нет</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969332</ns4:sid>
+                                <ns4:code>beb2d91f-4</ns4:code>
+                                <ns4:name>Наличие финишера</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763612</ns4:sid>
+                                        <ns4:qualityDescription>Нет</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969320</ns4:sid>
+                                <ns4:code>ba8259b8-b</ns4:code>
+                                <ns4:name>Наличие ЖК-дисплея</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763600</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969327</ns4:sid>
+                                <ns4:code>b30082ff-2</ns4:code>
+                                <ns4:name>Наличие разъема USB</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763607</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969326</ns4:sid>
+                                <ns4:code>f4214d0a-2</ns4:code>
+                                <ns4:name>Наличие модуля WI-FI</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763606</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969331</ns4:sid>
+                                <ns4:code>afeac04b-7</ns4:code>
+                                <ns4:name>Наличие факса</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763611</ns4:sid>
+                                        <ns4:qualityDescription>Нет</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969307</ns4:sid>
+                                <ns4:code>c419da24-b</ns4:code>
+                                <ns4:name>Возможность автоматической двухсторонней печати</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763587</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969312</ns4:sid>
+                                <ns4:code>8dc061b2-f</ns4:code>
+                                <ns4:name>Количество печати страниц в месяц </ns4:name>
+                                <ns4:type>2</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763592</ns4:sid>
+                                        <ns4:OKEI>
+                                            <ns2:code>796</ns2:code>
+                                            <ns2:nationalCode>ШТ</ns2:nationalCode>
+                                            <ns2:name>Штука</ns2:name>
+                                        </ns4:OKEI>
+                                        <ns4:valueFormat>N</ns4:valueFormat>
+                                        <ns4:rangeSet>
+                                            <ns4:valueRange>
+                                                <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                <ns4:min>80000</ns4:min>
+                                            </ns4:valueRange>
+                                        </ns4:rangeSet>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969343</ns4:sid>
+                                <ns4:code>aa7d7280-8</ns4:code>
+                                <ns4:name>Технология печати</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>3</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763627</ns4:sid>
+                                        <ns4:qualityDescription>Электрографическая</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969330</ns4:sid>
+                                <ns4:code>9991ecfa-5</ns4:code>
+                                <ns4:name>Наличие устройства автоподачи сканера</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763610</ns4:sid>
+                                        <ns4:qualityDescription>Да</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969318</ns4:sid>
+                                <ns4:code>6a98c2a1-a</ns4:code>
+                                <ns4:name>Максимальный формат печати</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>2</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763598</ns4:sid>
+                                        <ns4:qualityDescription>А4</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                            <ns4:characteristicsUsingReferenceInfo>
+                                <ns4:sid>112969346</ns4:sid>
+                                <ns4:code>21804b9d-8</ns4:code>
+                                <ns4:name>Цветность печати</ns4:name>
+                                <ns4:type>1</ns4:type>
+                                <ns4:kind>1</ns4:kind>
+                                <ns4:values>
+                                    <ns4:value>
+                                        <ns4:sid>137763631</ns4:sid>
+                                        <ns4:qualityDescription>Черно-Белая</ns4:qualityDescription>
+                                    </ns4:value>
+                                </ns4:values>
+                                <ns4:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns4:characteristicsFillingInstruction>
+                            </ns4:characteristicsUsingReferenceInfo>
+                        </ns4:characteristics>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>26.20.18.000</ns2:OKPDCode>
+                            <ns2:OKPDName>Устройства периферийные с двумя или более функциями: печать данных, копирование, сканирование, прием и передача факсимильных сообщений</ns2:OKPDName>
+                        </ns4:OKPD2>
+                    </ns4:KTRU>
+                    <ns4:name>Многофункциональное устройство (МФУ)</ns4:name>
+                    <ns4:OKEI>
+                        <ns2:code>796</ns2:code>
+                        <ns2:nationalCode>ШТ</ns2:nationalCode>
+                        <ns2:name>Штука</ns2:name>
+                    </ns4:OKEI>
+                    <ns4:price>65500</ns4:price>
+                    <ns4:quantity>
+                        <ns4:value>2</ns4:value>
+                    </ns4:quantity>
+                    <ns4:sum>131000</ns4:sum>
+                </ns4:purchaseObject>
+                <ns4:totalSum>131000</ns4:totalSum>
+                <ns9:type>PRODUCT</ns9:type>
+            </ns9:purchaseObjectsInfo>
+            <ns9:requirementsInfo>
+                <ns9:requirementInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>ET44</ns2:shortName>
+                        <ns2:name>Единые требования к участникам закупок в соответствии с ч. 1 ст. 31 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                </ns9:requirementInfo>
+                <ns9:requirementInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>TOVNPIVR</ns2:shortName>
+                        <ns2:name>Требование об отсутствии в реестре недобросовестных поставщиков (подрядчиков, исполнителей) информации, включенной в такой реестр в связи отказом поставщика (подрядчика, исполнителя) от исполнения контракта по причине введения в отношении заказчика санкций и (или) мер ограничительного характера</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                </ns9:requirementInfo>
+            </ns9:requirementsInfo>
+            <ns9:restrictionsInfo>
+                <ns9:restrictionInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>JB2149</ns2:shortName>
+                        <ns2:name>Запрет на допуск товаров, работ, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными ст. 14 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                    <ns4:restrictionsSt14>
+                        <ns4:restrictionSt14>
+                            <ns4:requirementsType>
+                                <ns4:requirementType>
+                                    <ns4:type>RA</ns4:type>
+                                </ns4:requirementType>
+                            </ns4:requirementsType>
+                            <ns4:NPAInfo>
+                                <ns2:code>15</ns2:code>
+                                <ns2:name>Постановление Правительства РФ N 878 от 10.07.2019
+ "О мерах стимулирования производства радиоэлектронной продукции на территории Российской Федерации при осуществлении закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд, о внесении изменений в постановление Правительства Российской Федерации от 16 сентября 2016 г. N 925 и признании утратившими силу некоторых актов Правительства Российской Федерации"</ns2:name>
+                                <ns2:shortName>Постановление Правительства РФ N 878 от 10.07.2019</ns2:shortName>
+                            </ns4:NPAInfo>
+                        </ns4:restrictionSt14>
+                    </ns4:restrictionsSt14>
+                </ns9:restrictionInfo>
+            </ns9:restrictionsInfo>
+        </ns9:notificationInfo>
+        <ns9:printFormFieldsInfo>
+            <ns9:is449Features>false</ns9:is449Features>
+        </ns9:printFormFieldsInfo>
+        <ns9:serviceSigns>
+            <ns9:isIncludeKOKS>false</ns9:isIncludeKOKS>
+        </ns9:serviceSigns>
+    </ns3:epNotificationEZT2020>
+</ns3:export>

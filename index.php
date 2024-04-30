@@ -14,9 +14,15 @@
         <button type="submit">Search</button>
     </form> -->
     <?php
-    require 'C:\ospanel\domains\zakup.local\bot.php';
-    // // Remove the unnecessary closing PHP tag
+    require 'C:\ospanel\domains\zakup.local\getContractsFromFTPs.php';
+    //require 'C:\ospanel\domains\zakup.local\testing.php';
+    getContractsforFirstTime();
+    // require 'C:\ospanel\domains\zakup.local\bot.php';
+    // unlink("zipzip/fuck.php");
+    // rmdir("zipzip");
 
+
+    
     // if ($_SERVER["REQUEST_METHOD"] == "POST") {
     //     $searchTerm = $_POST["search"];
     //     $xmlFiles = glob("notification/*.xml");
@@ -37,7 +43,6 @@
     //         }
     //     }
 
-    //     //print_r($links);
     //     $file = 'ResearchLinks.csv';
     //     file_put_contents($file, '');
 
@@ -58,6 +63,6 @@
     //     echo "</ul>";
 
     // }
-    // ?>
+    ?>
 </body>
 </html>

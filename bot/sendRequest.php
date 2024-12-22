@@ -1,6 +1,7 @@
 <?php 
 //require 'sendMessage.php'; уже объявил в sendObnov...  дважды нельзя
-$botToken = "7032500028:AAHyW0tn2uUfvRmgEdHW02r9B0Xmgj-Ke-U";
+//вставь токен
+$botToken = "";
 // Функция для отправки запросов к API Telegram
 function apiRequest($method, $parameters) {
     $url = "https://api.telegram.org/bot" . $GLOBALS['botToken'] . "/" . $method;

@@ -1,7 +1,8 @@
 <?php
 
 function sendDocument($chat_id, $jsonData){
-    $bot_token ="7032500028:AAHyW0tn2uUfvRmgEdHW02r9B0Xmgj-Ke-U";
+    // вставь токен
+    $bot_token ="";
     $temp_html_file = json2table($jsonData);
     $request_params = [
         'chat_id' => $chat_id,

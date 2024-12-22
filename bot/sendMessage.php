@@ -1,7 +1,8 @@
 <?php
 // Функция для отправки сообщения через API Telegram
 function sendMessage($chatId, $message) {
-    $botToken = "7032500028:AAHyW0tn2uUfvRmgEdHW02r9B0Xmgj-Ke-U";
+    //вставь токен
+    $botToken = "";
     $url = "https://api.telegram.org/bot" . $botToken . "/sendMessage";
     $data = array(
         "chat_id" => $chatId,

@@ -1,7 +1,9 @@
 <?php
 // Получаем обновления от API Telegram
 function getUpdates($params) {
-    $botToken = "7032500028:AAHyW0tn2uUfvRmgEdHW02r9B0Xmgj-Ke-U";
+    // вставь токен
+    $botToken = "";
+    
     $upurl = "https://api.telegram.org/bot" . $botToken . "/getUpdates". '?' .http_build_query($params);
     //echo $upurl;
     //echo "<br>";
